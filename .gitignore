@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+*.pyc
+
+# Jamais de documents personnels dans Git
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+test*/
